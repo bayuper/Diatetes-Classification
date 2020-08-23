@@ -1,1 +1,1 @@
-# Diatetes-Classification
+# Diabetes-Classification
